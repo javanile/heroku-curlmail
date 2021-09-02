@@ -7,5 +7,5 @@ Curlmail enables you to send mail via CURL command everywere
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ```
-curl -H "Passphrase:P1zz4" -d "subject=Hi!" -d "body=WIP" https://mail-99.herokuapp.com 
+curl -H "Passphrase:P1zz4" -d "subject=Hi!" -d "body=WAT" https://mail-99.herokuapp.com 
 ```

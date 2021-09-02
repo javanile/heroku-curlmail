@@ -1,4 +1,4 @@
-# heroku-curlmail
+# Heroku Curlmail
 
 Curlmail enables you to send emails via CURL command everywere
 

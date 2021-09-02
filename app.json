@@ -1,0 +1,7 @@
+{
+  "name": "Heroku Curlmail",
+  "description": "Send emails via CURL and Heroku easily",
+  "repository": "https://github.com/javanile/heroku-curlmail",
+  "logo": "https://github.com/javanile/heroku-curlmail/raw/main/logo.png",
+  "keywords": ["curl", "email", "smtp", "cloud", "alerting", "monitoring", "nocode", "ifttt"]
+}

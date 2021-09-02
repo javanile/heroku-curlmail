@@ -1,6 +1,6 @@
 # heroku-curlmail
 
-Curlmail enables you to send mail via CURL command everywere
+Curlmail enables you to send emails via CURL command everywere
 
 ## Get Started
 
